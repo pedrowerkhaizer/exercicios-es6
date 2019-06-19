@@ -25,7 +25,6 @@ export default class Resex1_1 extends Component {
 
             console.log(Usu1.isAdmin()) // false <br />
             console.log(Adm1.isAdmin()) // true <br />
-
           </code>
         </div>
       </div>
